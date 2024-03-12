@@ -1,5 +1,5 @@
 {
-	"fileVersion": 14,
+	"fileVersion": 15,
 	"versionSuffix": "",
 	"title": "XInguTrue",
 	"description": "",
@@ -7,7 +7,7 @@
 	"docsUrl": "",
 	"kind": "Island",
 	"templateCategory": "UserGenerated",
-	"compatibilityVersion": "28.30",
+	"compatibilityVersion": "29.00",
 	"editorPermissions": [],
 	"epicApp": "",
 	"sortPriority": 0,
@@ -23,7 +23,7 @@
 		"matchmaking":
 		{
 			"maxPlayers": 16,
-			"maxTeamCount": 1,
+			"maxTeamCount": 16,
 			"maxTeamSize": 16,
 			"maxSocialPartySize": 16,
 			"allowJoinInProgress": true,
@@ -40,5 +40,6 @@
 		{
 			"XInguTrue": "fd67155e-4efe-c4db-bab2-fda65b82798c"
 		}
-	}
+	},
+	"featureSet": ""
 }
